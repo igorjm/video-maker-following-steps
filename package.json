@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/igorjm/video-maker-following-steps/issues"
   },
-  "homepage": "https://github.com/igorjm/video-maker-following-steps#readme"
+  "homepage": "https://github.com/igorjm/video-maker-following-steps#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
