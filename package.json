@@ -1,0 +1,22 @@
+{
+  "name": "video-maker-following-steps",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorjm/video-maker-following-steps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorjm/video-maker-following-steps/issues"
+  },
+  "homepage": "https://github.com/igorjm/video-maker-following-steps#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
